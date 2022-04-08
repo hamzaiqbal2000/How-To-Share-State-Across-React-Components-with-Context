@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+## How To Share State Across React Components with Context
+
+Context is a powerful and flexible tool that gives you the ability to store and use data across an application. It gives you the ability to handle distributed data with built-in tools that do not require any additional third party installation or configuration.
+
+Creating reusable contexts is important across a variety of common components such as forms that need to access data across elements or tab views that need a common context for both the tab and the display. You can store many types of information in contexts including themes, form data, alert messages, and more. Context gives you the freedom to build components that can access data without worrying about how to pass data through intermediary components or how to store data in a centralized store without making the store too large.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
